@@ -1,4 +1,4 @@
-# SMS Student Management System
+# student_management_system
 
 A Spring Boot-based Student Management System (SMS) for managing student records with CRUD operations. The project is built using Java, Spring Boot, Spring Data JPA, and MySQL.
 
